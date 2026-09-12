@@ -5,7 +5,8 @@
 <h1 align="center">DroidBridge Launcher But I Bring it back!</h1>
 
 <p align="center">
-  An independent Android launcher framework for users who own Minecraft: Java Edition and want to run Java Edition on Android devices. (Note: im NOT dna mobile application)
+  An independent Android launcher framework for users who own Minecraft: Java Edition and want to run Java Edition on Android devices. 
+  (Note: im NOT dna mobile application)
 </p>
 
 <p align="center">

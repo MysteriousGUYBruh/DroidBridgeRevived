@@ -183,21 +183,6 @@ Release builds should be signed with the correct production keystore and should 
 
 ---
 
-## Google Play and store publication checklist
-
-Before publishing on Google Play or another app store:
-
-- Make sure the app name, icon, screenshots, and description do not imply official Microsoft, Mojang, Xbox, or Minecraft endorsement.
-- Include a publicly accessible privacy policy URL.
-- Make in-app privacy, legal notices, and open-source notices easy to find.
-- Complete the Google Play Data safety form accurately.
-- Disclose any data accessed, collected, transmitted, or shared by the app and by third-party SDKs/libraries.
-- Include open-source notices and license texts.
-- Provide source-code links required by LGPL/GPL or other applicable licenses.
-- Review third-party APIs, SDKs, and content services used by the app.
-
----
-
 ## Contributing
 
 Contributions are welcome if they respect the project’s legal and technical boundaries.
